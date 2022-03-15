@@ -1,7 +1,7 @@
 ---
 title: "Varun Reddy Muddasani "
 role: Student of Masters in Computer Science
-avatar_filename: picture-vrm-2-.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Data Analytics
