@@ -2,8 +2,7 @@
 title: "Varun Reddy Muddasani "
 role: Student of Masters in Computer Science
 avatar_filename: picture-vrm-2-.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Data Analytics
   - Software Engineering
@@ -25,19 +24,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: George Mason University
+    url: https://www.gmu.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Masters in Computer Science
+      institution: George Mason University
+      year: 2023
+    - course: Post Graduation in Data Science and Business Analytics
+      institution: University of Texas at Austin
+      year: 2021
+    - course: Bachelors in Electronics and Communication Engineering
+      institution: Jawaharlal Nehru Institute of Technology
+      year: 2018
 email: ""
 superuser: true
 highlight_name: true
