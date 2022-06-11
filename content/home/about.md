@@ -6,6 +6,7 @@ widget_id: home
 headless: true
 weight: 20
 title: Biography
+subtitle: Software Developer | Data Analyst
 design:
   background:
     image: ""
