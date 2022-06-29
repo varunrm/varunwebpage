@@ -25,7 +25,7 @@ feature:
 - icon: js
   icon_pack: fab
   name: Javascript
-- icon: database
+- icon: database-solid
   icon_pack: fab
   name: SQL
 - icon: chart-line
