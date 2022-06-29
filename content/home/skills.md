@@ -26,7 +26,7 @@ feature:
   icon_pack: fab
   name: Javascript
 - icon: database-solid
-  #icon_pack: fab
+  icon_pack: fas
   name: SQL
 - icon: chart-line
   icon_pack: fas
