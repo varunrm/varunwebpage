@@ -33,7 +33,7 @@ experience:
         
         * Analysing
         * Modelling
-        * Deployin
+        * Deployingg
 
 
 design:
