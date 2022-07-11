@@ -5,7 +5,7 @@ author: admin
 widget_id: home
 headless: true
 weight: 20
-title: Biography
+title: Biograph
 subtitle: Software Developer | Data Analyst
 design:
   background:
