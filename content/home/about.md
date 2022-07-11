@@ -11,5 +11,4 @@ design:
   background:
     image: ""
 ---
-Varun is Data Analyst with three years of experience into data-driven solution to increase efficiency, accuracy, and utility of internal data processing. He is experienced in creating data regression models, using data modelling and analyzing data mining algorithms. He has good programming Knowledge, his skills include SQL, Python, R and Machine Learning techniques.
-Varun is currently pursuing his masters at George Mason University in Computer Science. His intrests include building Data analytic solutions
+Varun Muddasani is pursuing Masters in Computer Science at George Mason University at Fairfax. He is a Software developer, he has started his professional career with DXC Technology (Formerly CSC-Computer Science Corporation). His interests include Machine Learning, Python Programming, Software Engineering.
