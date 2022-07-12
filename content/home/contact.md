@@ -28,7 +28,7 @@ content:
   email: varun.muddasani@gmail.com
   phone: 571 550 5959
   address:
-    street: 4297 Cotswolds Hill Lane
+    street: 4297 Cotswolds Hill LaneS
     city: Fairfax
     region: VA
     postcode: '22030'
