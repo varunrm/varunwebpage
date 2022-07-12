@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.linkedin.com/
   - display:
       header: false
