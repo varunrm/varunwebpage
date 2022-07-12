@@ -11,23 +11,27 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    label: Contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    label: Scholar
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+    label: Linkedin
   - display:
       header: false
     link: https://leetcode.com/vmuddasani97/
     icon_pack: fas
     icon: code
+    label: LeetCode
 organizations:
   - name: George Mason University
     url: https://www.gmu.edu/
