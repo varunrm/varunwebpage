@@ -7,9 +7,9 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
+  #theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -83,13 +83,13 @@ features:
       show_count: true
     commento:
       url: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
+ # search:
+ #   provider: wowchemy
+ #   algolia:
+ #     app_id: ''
+ #     api_key: ''
+ #     index_name: ''
+ #     show_logo: false
   map:
     provider: ''
     api_key: ''
