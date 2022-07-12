@@ -26,7 +26,7 @@ social:
   - display:
       header: false
     link: https://leetcode.com/vmuddasani97/
-    icon_pack: fab
+    icon_pack: fas
     icon: database
 organizations:
   - name: George Mason University
