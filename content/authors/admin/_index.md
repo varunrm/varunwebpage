@@ -27,7 +27,7 @@ social:
       header: false
     link: https://leetcode.com/vmuddasani97/
     icon_pack: fab
-    icon: Leetcode
+    icon: LeetCode
 organizations:
   - name: George Mason University
     url: https://www.gmu.edu/
