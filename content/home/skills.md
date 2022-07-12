@@ -34,6 +34,12 @@ feature:
 - icon: camera-retro
   icon_pack: fas
   name: Photography
+- icon: chart-line
+  icon_pack: fas
+  name: Statistics
+- icon: camera-retro
+  icon_pack: fas
+  name: Photography
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
