@@ -23,6 +23,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    link: https://leetcode.com/vmuddasani97/
+    icon_pack: fab
+    icon: Leetcode
 organizations:
   - name: George Mason University
     url: https://www.gmu.edu/
