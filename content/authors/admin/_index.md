@@ -50,4 +50,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Varun Muddasani is pursuing Masters in Computer Science at George Mason University at Fairfax. He is a Software developer, he has started his professional career with DXC Technology. His interests include Machine Learning, Python Programming, Software Engineering.
+Varun Muddasani is pursuing Masters in Computer Science at George Mason University at Fairfax. He is a Software developer, he has started his professional career with DXC Technology. His interests include Machine Learning, Python Programming, Software Engineerings.
