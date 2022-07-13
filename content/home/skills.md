@@ -33,7 +33,7 @@ feature:
   name: Statistics
 - icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Photographys
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
